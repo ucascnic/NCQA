@@ -1,0 +1,12 @@
+P = [4, 1; 1, 4];
+q = [3; 4];
+x = [6; -17];
+r = 1e-5;
+alpha = 0.1;
+beta = 0.618;
+disp('newton method: ');
+[x, p] = newton_qp(P, q, x, r, alpha, beta);
+disp(p);disp(x);
+disp('quadprog: ');
+[x2, p] = quadprog(P, q);
+disp(p);disp(x2-x);

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCyclic.a CMakeFiles/Cyclic.dir/Cyclic_generated_cu_cr_functors.cu.o CMakeFiles/Cyclic.dir/Cyclic_generated_cu_cr_solver.cu.o CMakeFiles/Cyclic.dir/Cyclic_intermediate_link.o
+/usr/bin/ranlib libCyclic.a
