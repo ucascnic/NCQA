@@ -1,0 +1,9 @@
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/CMakeFiles/rebuild_cache.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/CMakeFiles/LargeRosenMain.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/CMakeFiles/edit_cache.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/Cyclic/CMakeFiles/rebuild_cache.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/Cyclic/CMakeFiles/Cyclic.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/Cyclic/CMakeFiles/edit_cache.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/utils/CMakeFiles/rebuild_cache.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/utils/CMakeFiles/utils.dir
+/home/chenyidong/newstart2/interior_point_qp-master/rosenfunction/TridiagonalMatrixSolver-master/utils/CMakeFiles/edit_cache.dir
